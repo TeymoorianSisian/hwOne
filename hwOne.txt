@@ -1,3 +1,1 @@
-HelLo World
-Hello, my name is "Sisian Teymoorian"
-Hello, my name is "Sisian Teymoorian", and I am working on hw1
+Hello World
